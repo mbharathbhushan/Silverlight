@@ -1,0 +1,6 @@
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\bin\MVVMSilverlight.Web.dll.config
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\bin\MVVMSilverlight.Web.dll
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\bin\MVVMSilverlight.Web.pdb
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\obj\Debug\MVVMSilverlight.Web.csprojResolveAssemblyReference.cache
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\obj\Debug\MVVMSilverlight.Web.dll
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight.Web\obj\Debug\MVVMSilverlight.Web.pdb

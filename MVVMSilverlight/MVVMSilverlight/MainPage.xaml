@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="MVVMSilverlight.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+             xmlns:local="clr-namespace:MVVMSilverlight.ViewModels"
+    d:DesignHeight="300" d:DesignWidth="400">
+    <UserControl.Resources>
+        <local:PersonViewModel  x:Key="pkey" />
+    </UserControl.Resources>
+    <Grid x:Name="LayoutRoot" Background="White" 
+          DataContext="{Binding Source={StaticResource pkey}}" >
+        <Grid Name="hi" DataContext="{Binding Path=personModel, Mode=TwoWay}">
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="53,30,0,0" 
+                 Name="textBox1" VerticalAlignment="Top" Width="120" Text="{Binding Path=Name, Mode=TwoWay}" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="53,68,0,0" Name="textBox2" 
+                 Text="{Binding Path=Age, Mode=TwoWay}"  VerticalAlignment="Top" Width="120" />
+            <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="53,112,0,0" Name="button1"
+                VerticalAlignment="Top" Width="75"  Command="{Binding Path=DataContext.GetPerson, ElementName= LayoutRoot }" 
+                    CommandParameter="{Binding Path=Age, ElementName=hi}"  />
+        </Grid>
+    </Grid>
+</UserControl>

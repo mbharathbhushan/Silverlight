@@ -1,0 +1,12 @@
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\MVVMSilverlight.csprojResolveAssemblyReference.cache
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\App.g.cs
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\MainPage.g.cs
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\MVVMSilverlight.g.resources
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\Bin\Debug\MVVMSilverlight.dll
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\Bin\Debug\MVVMSilverlight.pdb
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\Bin\Debug\AppManifest.xaml
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\Bin\Debug\MVVMSilverlight.xap
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\Bin\Debug\MVVMSilverlightTestPage.html
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\MVVMSilverlight.dll
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\MVVMSilverlight.pdb
+D:\Angular2Practice\MVVMSilverlight\MVVMSilverlight\obj\Debug\XapCacheFile.xml
